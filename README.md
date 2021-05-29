@@ -1,2 +1,2 @@
 # Ascii Art
-This repository conains some Ascii Arts.
+This repository contains some Ascii Arts.
